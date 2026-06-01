@@ -33,4 +33,4 @@
 ---
 
 ## ⚡ Beyond the Code
-* 🌲 **Mindset & Focus:** When I am AFK, I choose to decouple from the screens. You can find me spending time out in nature or reading books to clear my mind, keep my perspectives grounded, and maintain a chill, focused approach to problem-solving.
+* 🎮 **Mindset & Focus:** When I am AFK or taking a quick break from compiling code, you can usually find me queueing up for a match in Dota 2 to chill out, reset my brain, and keep my mechanical execution sharp.
