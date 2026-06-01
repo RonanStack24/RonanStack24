@@ -123,4 +123,3 @@
 
 ## ⚡ Beyond the Code
 * 🌲 **Mindset & Focus:** When I am AFK, I choose to decouple from the screens. You can find me spending time out in nature or reading books to clear my mind, keep my perspectives grounded, and maintain a chill, focused approach to problem-solving.
-* 💻 **Engine:** Heavy lifting powered entirely by an ASUS TUF Gaming F15 setup.
