@@ -1,5 +1,5 @@
 # Hi, I'm Ronan Antoque 👋
-### BSIT Student & Aspiring Frontend Engineer
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=435&lines=BSIT+Student;Aspiring+Frontend+Engineer;Full-Stack+Explorer" alt="Typing SVG" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -22,9 +22,13 @@
 ---
 
 ## 🛠️ Featured Projects & Systems
+
 ### 🖥️ Sit-in Monitoring System
 > A specialized dashboard management tool engineered with **PHP** and **Tailwind CSS** to streamline and log student hours seamlessly.
-*🔧 Status: In active development / core features implementation.*
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Active Development" />
+</p>
 
 ### 🔒 Secure Vault
 > A web application UI focused on secure data handling, built with a modern frontend architecture to keep information encrypted and clean.
@@ -43,3 +47,8 @@
 ## ⚡ Beyond the Code
 * 🌲 **Mindset & Focus:** When I am AFK, I choose to decouple from the screens. You can find me spending time out in nature or reading books to clear my mind, keep my perspectives grounded, and maintain a chill, focused approach to problem-solving.
 * 💻 **Engine:** Heavy lifting powered entirely by an ASUS TUF Gaming F15 setup.
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=38B2AC&height=60&section=footer" width="100%" />
+</p>
