@@ -37,10 +37,8 @@
 
 ## 📊 GitHub Performance Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonanStack24&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ronan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanStack24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+![Ronan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonanStack24&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonanStack24&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -49,6 +47,5 @@
 * 💻 **Engine:** Heavy lifting powered entirely by an ASUS TUF Gaming F15 setup.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=38B2AC&height=60&section=footer" width="100%" />
-</p>
+
+![Wave Footer](https://capsule-render.vercel.app/type=waving&color=38B2AC&height=60&section=footer)
