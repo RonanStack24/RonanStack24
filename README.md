@@ -26,7 +26,7 @@
 > A specialized dashboard management tool engineered with **PHP** and **Tailwind CSS** to streamline and log student hours seamlessly.
 *🔧 Status: In active development / core features implementation.*
 
-### 🔒 CipherForge / Secure Vault
+### 🔒 Secure Vault
 > A web application UI focused on secure data handling, built with a modern frontend architecture to keep information encrypted and clean.
 
 ---
