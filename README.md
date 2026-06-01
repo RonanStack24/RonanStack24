@@ -1,5 +1,5 @@
 # Hi, I'm Ronan Antoque 👋
-### BSIT Student & Aspiring Frontend Engineer
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=435&lines=BSIT+Student;Aspiring+Frontend+Engineer;Full-Stack+Explorer" alt="Typing SVG" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -32,11 +32,14 @@
 
 ---
 
-## 💻 Tech Stack Distribution
+## 📊 GitHub Profile Metrics
 
-```json
-{
-  "frontend": ["JavaScript", "React", "Tailwind CSS", "HTML5/CSS3"],
-  "backend": ["PHP", ".NET development"],
-  "environments": ["ASUS TUF Gaming F15 Setup"]
-}
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=RonanStack24&theme=tokyonight&no-bg=true&margin-w=15" alt="Ronan's Trophies" />
+</p>
+
+---
+
+## ⚡ Beyond the Code
+* 🌲 **Mindset & Focus:** When I am AFK, I choose to decouple from the screens. You can find me spending time out in nature or reading books to clear my mind, keep my perspectives grounded, and maintain a chill, focused approach to problem-solving.
+* 💻 **Engine:** Heavy lifting powered entirely by an ASUS TUF Gaming F15 setup.
