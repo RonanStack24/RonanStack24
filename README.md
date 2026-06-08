@@ -32,7 +32,7 @@ A 3rd-year Information Technology student building my foundation in core network
   * Connecting End Devices (PCs/Laptops) via managed Switches.
   * Assigning manual static IP Addresses and fixing basic **Subnetting** constraints.
   * Configuring basic Router interfaces via CLI using commands like `no shutdown` and `ip address`.
-* **🔗 [View My Packet Tracer Labs](https://github.com/imong-username/packet-tracer-labs)** *(Ilisi ni sa link sa imong repo puhon)*
+* **🔗 [View My Packet Tracer Labs](https://github.com/imong-username/packet-tracer-labs)** 
 
 ---
 
