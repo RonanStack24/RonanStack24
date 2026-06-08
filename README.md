@@ -47,18 +47,13 @@ A 3rd-year Information Technology student building my foundation in core network
 
 ### ⚡ GitHub Stats & Animations
 
+### ⚡ GitHub Stats & Animations
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imong-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imong-username&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IMONG_TINUOD_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMONG_TINUOD_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imong-username&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdvYmRwYm8zMmszMG5maHF6cm10Y2E3NmE1N2dyM2NsdG54amY0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q94wOQYf5w9RBeD6b3/giphy.gif" width="300">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMONG_TINUOD_GITHUB_USERNAME&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
