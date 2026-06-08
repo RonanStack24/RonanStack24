@@ -1,36 +1,64 @@
-# Hi, I'm Ronan Antoque 👋
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&width=435&lines=BSIT+Student;Aspiring+Frontend+Engineer;Full-Stack+Explorer" alt="Typing SVG" />
+# Hi there, I'm Ronan Antoque! 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nidm9tZ3Yzd3FmOHZpZXZ5b3B6M3ptbWZ6Y3psMXF3Nm9idXFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1dBGoJD4i4wGv2Qnc/giphy.gif" width="35">
+
+### 🚀 Future Network Engineer | IT Student 
+
+A 3rd-year Information Technology student building my foundation in core networking, routing, and switching. Currently learning how data moves across the digital world and documenting my hands-on home lab experiments.
+
+---
+
+### 🛠️ My Starter Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Networking Section -->
+  <img src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocols-TCP%2FIP%20%7C%20Subnetting-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- Development Tools (from my IT studies) -->
+  <img src="https://img.shields.io/badge/Web%20Dev-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Education:** 3rd Year BSIT Student at the University of Cebu Main Campus.
-- 💻 **Focus:** Crafting clean, responsive user interfaces and building optimized web systems.
-- 📚 **Currently Leveling Up:** Actively expanding my frontend ecosystem with **React** and diving into backend robust architecture with **.NET development**.
-- ⚙️ **Tech Mindset:** Blending solid full-stack backend logic with pixel-perfect frontend layouts.
+### 🔬 Active Lab Projects (Learning Phase)
+
+#### 🌐 1. Local Network Simulation (Cisco Packet Tracer)
+* **Objective:** Setting up my very first functional Local Area Network (LAN) with basic routing and switching.
+* **What I'm doing:**
+  * Connecting End Devices (PCs/Laptops) via managed Switches.
+  * Assigning manual static IP Addresses and fixing basic **Subnetting** constraints.
+  * Configuring basic Router interfaces via CLI using commands like `no shutdown` and `ip address`.
+* **🔗 [View My Packet Tracer Labs](https://github.com/imong-username/packet-tracer-labs)** *(Ilisi ni sa link sa imong repo puhon)*
 
 ---
 
-## 🛠️ Featured Projects & Systems
+### 📈 Roadmap Tracker (2026)
 
-### 🖥️ Sit-in Monitoring System
-> A specialized dashboard management tool engineered with **PHP** and **Tailwind CSS** to streamline and log student hours seamlessly.
-*🔧 Status: In active development / core features implementation.*
-
-### 🔒 Secure Vault
-> A web application UI focused on secure data handling, built with a modern frontend architecture to keep information encrypted and clean.
+- [x] Learn the OSI Model & TCP/IP Layers
+- [ ] Master Subnetting without calculators
+- [ ] Configure my first virtual router using Cisco CLI
+- [ ] Set up a basic Home Lab with virtual machines
 
 ---
 
-## ⚡ Beyond the Code
-* 🎮 **Mindset & Focus:** When I am AFK or taking a quick break from compiling code, you can usually find me queueing up for a match in Dota 2 to chill out, reset my brain, and keep my mechanical execution sharp.
+### ⚡ GitHub Stats & Animations
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imong-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imong-username&theme=tokyonight" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imong-username&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdvYmRwYm8zMmszMG5maHF6cm10Y2E3NmE1N2dyM2NsdG54amY0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q94wOQYf5w9RBeD6b3/giphy.gif" width="300">
+</p>
