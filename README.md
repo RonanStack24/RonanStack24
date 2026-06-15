@@ -1,7 +1,7 @@
 # Hi there, I'm Ronan Antoque! 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nidm9tZ3Yzd3FmOHZpZXZ5b3B6M3ptbWZ6Y3psMXF3Nm9idXFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1dBGoJD4i4wGv2Qnc/giphy.gif" width="35">
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&width=550&lines=Full-Stack+Developer+%F0%9F%9A%80;Network+Enthusiast+%F0%9F%8C%90;IT+Student+at+UC+Main+%F0%9F%8E%93" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&width=550&lines=Full-Stack+Developer;Network+Enthusiast;IT+Student+at+UC+Main" alt="Typing Effect" />
 </p>
 
 A 3rd-year Information Technology student bridging the gap between clean application code and robust network infrastructure. I build responsive web apps while mastering core routing, switching, and deployment logic.
@@ -76,13 +76,14 @@ A 3rd-year Information Technology student bridging the gap between clean applica
 
 ---
 
-### ⚡ GitHub Overview
+### ⚡ GitHub Activity Profile
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronanantoque&theme=tokyonight" width="100%" alt="Ronan's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronanantoque&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Ronan's Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronanantoque&theme=tokyonight" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronanantoque&theme=tokyonight" width="49%" alt="Commit Stats" />
+  <img src="https://img.shields.io/github/followers/ronanantoque?label=Followers&style=flat-square&color=06B6D4&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ronanantoque?label=Total%20Stars&style=flat-square&color=777BB4&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/ronanantoque/ronanantoque?label=Profile%20Size&style=flat-square&color=orange" alt="Repo Size" />
 </p>
