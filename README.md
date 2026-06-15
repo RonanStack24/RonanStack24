@@ -1,6 +1,11 @@
 # Hi there, I'm Ronan Antoque! 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nidm9tZ3Yzd3FmOHZpZXZ5b3B6M3ptbWZ6Y3psMXF3Nm9idXFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1dBGoJD4i4wGv2Qnc/giphy.gif" width="35">
 
-### 🚀 Full-Stack Developer & Network Enthusiast | IT Student 
+<!-- Animated Typing Text Header -->
+<p align="left">
+  <a href="https://github.com/ronanantoque">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&width=550&lines=Full-Stack+Developer+🚀;Network+Enthusiast+🌐;IT+Student+at+UC+Main+🎓" alt="Typing Effect" />
+  </a>
+</p>
 
 A 3rd-year Information Technology student bridging the gap between clean application code and robust network infrastructure. I build responsive web apps while mastering core routing, switching, and deployment logic.
 
@@ -41,13 +46,43 @@ A 3rd-year Information Technology student bridging the gap between clean applica
   * Resolving **Subnetting** constraints and assigning static IP addresses.
   * Configuring Router interfaces via CLI using commands like `no shutdown` and `ip address`.
 
+---
+
 ### 📈 Roadmap Tracker (2026)
 
-- [x] Learn the OSI Model & TCP/IP Layers
-- [x] Deep dive into Vanilla PHP OOP concepts
-- [ ] Connect a React frontend to a custom PHP REST API
-- [ ] Master Subnetting without calculators
-- [ ] Configure my first virtual router using Cisco CLI
-- [ ] Set up a basic Home Lab with virtual machines
+<!-- Animated Progress Bars inside Markdown -->
+<table>
+  <tr>
+    <td><strong>Learn the OSI Model & TCP/IP Layers</strong></td>
+    <td><img src="https://geps.dev/progress/100" alt="100%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Deep dive into Vanilla PHP OOP concepts</strong></td>
+    <td><img src="https://geps.dev/progress/100" alt="100%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Connect a React frontend to a PHP REST API</strong></td>
+    <td><img src="https://geps.dev/progress/45?dangerColor=8b5cf6&warningColor=a78bfa&successColor=06b6d4" alt="45%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Master Subnetting without calculators</strong></td>
+    <td><img src="https://geps.dev/progress/70?dangerColor=8b5cf6&warningColor=a78bfa&successColor=06b6d4" alt="70%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Configure my first virtual router (Cisco CLI)</strong></td>
+    <td><img src="https://geps.dev/progress/30?dangerColor=8b5cf6&warningColor=a78bfa&successColor=06b6d4" alt="30%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Set up a basic Home Lab with VMs</strong></td>
+    <td><img src="https://geps.dev/progress/15?dangerColor=8b5cf6&warningColor=a78bfa&successColor=06b6d4" alt="15%" /></td>
+  </tr>
+</table>
 
 ---
+
+<!-- Animated Activity Analytics Panel -->
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronanantoque&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanantoque&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
