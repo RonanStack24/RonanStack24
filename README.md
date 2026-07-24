@@ -227,17 +227,17 @@ I am especially interested in creating technology for smart homes, agriculture, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RonanStack24&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=RonanStack24&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
     height="165"
     alt="Ronan's GitHub Statistics"
   />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonanStack24&layout=compact&theme=tokyonight&hide_border=true"
- height="165"
- alt="Ronan's Most Used Languages"
-/>
-
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RonanStack24&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    height="165"
+    alt="Ronan's Most Used Languages"
+  />
+  
 </p>
 
 <p align="center">
