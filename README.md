@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:8B5CF6,100:1A1B26&amp;height=220&amp;section=header&amp;text=Ronan%20Antoque&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20Future%20Embedded%20Systems%20Engineer&amp;descSize=17&amp;descAlignY=57"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:8B5CF6,100:1A1B26&amp;height=220&amp;section=header&amp;text=Ronan%20Antoque&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20Backend-Focused%20Developer&amp;descSize=17&amp;descAlignY=57"
     width="100%"
-    alt="Ronan Antoque Wave Header"
+    alt="Ronan Antoque Animated Header"
   />
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=750&amp;lines=Aspiring+Software+Engineer;Learning+C%23+and+ASP.NET+Core+MVC;Learning+Dart+and+Flutter;Future+Embedded+Systems+Engineer;AgriTech+and+Automotive+Technology+Enthusiast;Working+Toward+Becoming+a+Microsoft+MVP"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;lines=Aspiring+Software+Engineer;Backend-Focused+Full-Stack+Developer;Learning+PHP+and+Laravel;Learning+C%23+and+ASP.NET+Core;Building+Mobile+Apps+with+Dart+and+Flutter;Creating+Projects+That+Solve+Real+Problems"
     alt="Animated Career Introduction"
   />
 </p>
@@ -29,437 +29,201 @@
   />
 </p>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I am a 4th-year Information Technology student working toward becoming a professional Software Engineer.
 
-I am a **4th-year Information Technology student** focused on becoming a professional **Software Engineer**.
+I am currently strengthening my frontend fundamentals while focusing more deeply on backend development, databases, APIs, authentication, and application logic.
 
-I am currently developing my skills in web and mobile application development, particularly with **C#**, **ASP.NET Core MVC**, **Dart**, **Flutter**, PHP, JavaScript, React, and MySQL.
+My main technologies are PHP, Laravel, MySQL, C#, ASP.NET Core, Dart, and Flutter. I also use HTML, CSS, JavaScript, and Tailwind CSS to build clean and responsive interfaces.
 
-My long-term specialization is **Embedded Systems Engineering**, where I want to combine software, electronics, sensors, microcontrollers, and networking to build practical real-world systems.
+🎯 Current Goals
 
-### My main career goals
+Become a professional Software Engineer
 
-- 💻 Become a professional **Software Engineer**
-- 🟣 Build applications using **C# and Microsoft technologies**
-- 📱 Develop cross-platform applications using **Dart and Flutter**
-- 🔌 Specialize in **Embedded Systems** in the future
-- 🌱 Build useful **AgriTech and IoT systems**
-- 🚗 Create software and embedded solutions for vehicles
-- 🏆 Contribute to the developer community and work toward becoming a **Microsoft MVP**
+Become strong in backend development
 
-Networking remains an important supporting skill because connected applications, cloud systems, IoT devices, and embedded systems all depend on reliable communication.
+Build complete applications using Laravel and MySQL
 
----
+Learn C# and ASP.NET Core for the Microsoft development ecosystem
 
-## 🛠️ Technologies and Tools
+Improve my frontend fundamentals for full-stack development
 
-### 💻 Software and Web Development
+Build mobile applications using Dart and Flutter
 
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"
-    alt="C Sharp"
-  />
+Create practical and portfolio-worthy software projects
 
-  <img
-    src="https://img.shields.io/badge/Framework-ASP.NET%20Core-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"
-    alt="ASP.NET Core"
-  />
+🛠️ Current Technology Stack
 
-  <img
-    src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"
-    alt="React"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white"
-    alt="Tailwind CSS"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"
-    alt="JavaScript"
-  />
-</p>
+Frontend Fundamentals
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"
-    alt="PHP"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"
-    alt="Laravel"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
-    alt="MySQL"
-  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 📱 Mobile Application Development — Currently Learning
+Backend and Database
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white"
-    alt="Dart"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white"
-    alt="Flutter"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Focus-Cross--Platform%20Apps-06B6D4?style=for-the-badge"
-    alt="Cross Platform Applications"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Status-Currently%20Learning-8B5CF6?style=for-the-badge"
-    alt="Currently Learning"
-  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
 </p>
 
-### 🔌 Embedded Systems and IoT — Long-Term Specialization
+Microsoft Development — Currently Learning
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/Microcontroller-ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"
-    alt="ESP32"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Platform-Arduino-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"
-    alt="Arduino"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Language-C%2FC++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"
-    alt="C and C Plus Plus"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Focus-IoT%20and%20Sensors-8B5CF6?style=for-the-badge"
-    alt="IoT and Sensors"
-  />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-8B5CF6?style=for-the-badge" alt="Entity Framework Core" />
 </p>
+
+Mobile Development
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/Design-Autodesk%20Fusion-F97316?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white"
-    alt="Autodesk Fusion"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Interest-AgriTech-22C55E?style=for-the-badge"
-    alt="AgriTech"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Interest-Automotive%20Technology-E11D48?style=for-the-badge"
-    alt="Automotive Technology"
-  />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
 </p>
 
-### 🌐 Networking, Operating Systems and Tools
+Development Tools
 
 <p align="left">
-  <img
-    src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white"
-    alt="Cisco Packet Tracer"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Protocols-TCP%2FIP%20and%20Subnetting-F97316?style=for-the-badge"
-    alt="TCP IP and Subnetting"
-  />
-
-  <img
-    src="https://img.shields.io/badge/OS-Linux%20and%20Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"
-    alt="Linux and Ubuntu"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"
-    alt="Git"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&amp;logo=phpstorm&amp;logoColor=white" alt="PhpStorm" />
 </p>
 
----
+🚀 Current Learning Focus
 
-## 🚀 Learning and Project Focus
+Software Engineering Fundamentals
 
-### 💻 1. Software Engineering Projects
+Programming logic and problem-solving
 
-I am improving my software-development fundamentals by building applications that solve real problems.
+Object-oriented programming
 
-**Current focus areas:**
+Clean and readable code
 
-- Object-oriented programming
-- Data structures and algorithms
-- Clean and readable code
-- Git and GitHub workflows
-- Database design
-- Authentication and authorization
-- REST API development
-- Testing and debugging
-- Software architecture fundamentals
+Git and GitHub workflows
 
-**Projects I want to build:**
+Database design and relationships
 
-- Student task and progress tracker
-- Inventory-management system
-- Appointment-booking application
-- Community reporting platform
-- AgriTech farm-management system
-- Vehicle-maintenance tracking system
+Authentication and authorization
 
----
+REST API development
 
-### 🟣 2. C# and ASP.NET Core MVC
+Testing and debugging
 
-I am learning Microsoft's development ecosystem to build secure and maintainable web applications.
+Basic software architecture
 
-**Current learning areas:**
+Backend Development
 
-- C# fundamentals
-- Classes and objects
-- Interfaces and inheritance
-- LINQ
-- ASP.NET Core MVC
-- Razor views
-- Entity Framework Core
-- SQL database integration
-- Dependency injection
-- Authentication and authorization
-- Web API development
+PHP fundamentals
 
-**Beginner project ideas:**
+Laravel routing, controllers, models, and views
 
-- Student information system
-- Personal expense tracker
-- Equipment borrowing system
-- Barangay service-request system
-- Vehicle-maintenance record system
+Laravel migrations and Eloquent ORM
 
----
+Form validation and error handling
 
-### 📱 3. Dart and Flutter Development
+MySQL database integration
 
-I am learning **Dart and Flutter** to build mobile applications that can run on Android, iOS, desktop, and the web.
+Authentication and role-based access
 
-**Current learning areas:**
+API development and frontend integration
 
-- Dart variables and data types
-- Conditional statements and loops
-- Functions and collections
-- Object-oriented programming in Dart
-- Flutter widgets
-- Stateless and stateful widgets
-- Navigation and routing
-- Forms and validation
-- State management
-- REST API integration
-- Local storage
-- Responsive mobile interfaces
+Frontend Fundamentals
 
-**Flutter projects I plan to build:**
+Semantic HTML
 
-- Personal study tracker
-- Student task-management application
-- Farm-monitoring mobile dashboard
-- Vehicle-maintenance reminder application
-- IoT sensor-monitoring mobile application
+Responsive CSS layouts
 
----
+JavaScript fundamentals
 
-### 🔌 4. Embedded Systems and IoT
+Forms and validation
 
-My long-term goal is to connect software applications with physical devices, sensors, and microcontrollers.
+Fetch API
 
-**Projects I plan to build:**
+Connecting frontend interfaces to backend APIs
 
-- ESP32 temperature and humidity monitor
-- Soil-moisture monitoring system
-- Automatic plant-watering system
-- Smart farm sensor dashboard
-- Motion-detection security system
-- Vehicle temperature monitor
-- Vehicle battery-monitoring prototype
-- IoT dashboard using ASP.NET Core or Flutter
-- Sensor enclosure designed using Autodesk Fusion
+Mobile Development
 
-**Current learning areas:**
+Dart programming fundamentals
 
-- ESP32 and Arduino fundamentals
-- Basic electronic components
-- Digital and analog input/output
-- Sensors, LEDs, relays, and motors
-- C and C++ fundamentals
-- Serial communication
-- Wi-Fi and Bluetooth communication
-- HTTP and MQTT
-- Hardware-software integration
-- Basic enclosure and prototype design
+Flutter widgets and layouts
 
----
+Navigation and forms
 
-### 🌐 5. Networking and Home-Lab Practice
+State management fundamentals
 
-Networking is a supporting skill that will help me understand deployment, cloud systems, IoT communication, cybersecurity, and infrastructure.
+REST API integration
 
-**What I am practicing:**
+Building our capstone mobile application
 
-- Cisco Packet Tracer
-- Local Area Network design
-- IPv4 addressing
-- Subnetting
-- Router and switch configuration
-- Static routing
-- VLAN fundamentals
-- Linux virtual machines
-- Server and application deployment
-- Connectivity testing and troubleshooting
+💡 Projects I Am Building or Planning
 
----
+Personal developer portfolio
 
-## 📈 Roadmap Tracker — 2026
+Student allowance tracker
 
-<table>
-  <tr>
-    <td><strong>Strengthen Software Engineering Fundamentals</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-In%20Progress-06B6D4?style=flat-square"
-        alt="In Progress"
-      />
-    </td>
-  </tr>
+Student task and progress tracker
 
-  <tr>
-    <td><strong>Learn C# Fundamentals and OOP</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Currently%20Learning-8B5CF6?style=flat-square"
-        alt="Currently Learning"
-      />
-    </td>
-  </tr>
+TeachSync teacher-management web application
 
-  <tr>
-    <td><strong>Build Beginner ASP.NET Core MVC Applications</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Starting-512BD4?style=flat-square"
-        alt="Starting"
-      />
-    </td>
-  </tr>
+Stackcamp developer community platform
 
-  <tr>
-    <td><strong>Learn Dart Programming Fundamentals</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Currently%20Learning-0175C2?style=flat-square"
-        alt="Currently Learning"
-      />
-    </td>
-  </tr>
+Inventory-management system
 
-  <tr>
-    <td><strong>Build My First Complete Flutter Application</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Starting-02569B?style=flat-square"
-        alt="Starting"
-      />
-    </td>
-  </tr>
+Appointment-booking application
 
-  <tr>
-    <td><strong>Improve PHP and Laravel Development Skills</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-In%20Progress-FF2D20?style=flat-square"
-        alt="In Progress"
-      />
-    </td>
-  </tr>
+Flutter capstone mobile application
 
-  <tr>
-    <td><strong>Master Git and GitHub Workflows</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-In%20Progress-F05032?style=flat-square"
-        alt="In Progress"
-      />
-    </td>
-  </tr>
+📈 2026 Roadmap
 
-  <tr>
-    <td><strong>Build My First ESP32 Sensor System</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Planned-000000?style=flat-square"
-        alt="Planned"
-      />
-    </td>
-  </tr>
+Goal
 
-  <tr>
-    <td><strong>Connect an IoT Device to a Web or Flutter Dashboard</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Planned-8B5CF6?style=flat-square"
-        alt="Planned"
-      />
-    </td>
-  </tr>
+Status
 
-  <tr>
-    <td><strong>Create an AgriTech Embedded Systems Prototype</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Long--Term%20Goal-22C55E?style=flat-square"
-        alt="Long Term Goal"
-      />
-    </td>
-  </tr>
+Strengthen programming fundamentals
 
-  <tr>
-    <td><strong>Create an Automotive Technology Prototype</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Status-Long--Term%20Goal-E11D48?style=flat-square"
-        alt="Long Term Goal"
-      />
-    </td>
-  </tr>
+In Progress
 
-  <tr>
-    <td><strong>Contribute to the Microsoft Developer Community</strong></td>
-    <td>
-      <img
-        src="https://img.shields.io/badge/Goal-Future%20Microsoft%20MVP-512BD4?style=flat-square"
-        alt="Future Microsoft MVP"
-      />
-    </td>
-  </tr>
-</table>
+Improve frontend fundamentals
 
----
+In Progress
 
-## ⚡ GitHub Activity
+Learn PHP and Laravel backend development
+
+In Progress
+
+Build complete Laravel applications
+
+Starting
+
+Learn C# and ASP.NET Core
+
+Learning
+
+Improve database and REST API skills
+
+In Progress
+
+Build a complete Flutter application
+
+In Progress
+
+Create portfolio-worthy projects
+
+In Progress
+
+Master Git and GitHub workflows
+
+In Progress
+
+⚡ GitHub Activity
 
 <p align="center">
   <img
@@ -476,11 +240,12 @@ Networking is a supporting skill that will help me understand deployment, cloud 
     alt="Ronan's GitHub Statistics"
   />
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RonanStack24&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-    height="165"
-    alt="Ronan's Most Used Languages"
-  />
+<img
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=RonanStack24&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+ height="165"
+ alt="Ronan's Most Used Languages"
+/>
+
 </p>
 
 <p align="center">
@@ -496,26 +261,20 @@ Networking is a supporting skill that will help me understand deployment, cloud 
     alt="Followers"
   />
 
-  <img
-    src="https://img.shields.io/github/stars/RonanStack24?label=Total%20Stars&amp;style=flat-square&amp;color=777BB4&amp;logo=github"
-    alt="Total Stars"
-  />
+<img
+ src="https://img.shields.io/github/stars/RonanStack24?label=Total%20Stars&amp;style=flat-square&amp;color=777BB4&amp;logo=github"
+ alt="Total Stars"
+/>
 
-  <img
-    src="https://img.shields.io/github/repo-size/RonanStack24/RonanStack24?label=Profile%20Size&amp;style=flat-square&amp;color=F97316"
-    alt="Profile Repository Size"
-  />
 </p>
 
----
+🎯 Current Mission
 
-## 🎯 Current Mission
-
-> Become a strong Software Engineer, develop applications using Microsoft technologies and Flutter, and eventually combine software with embedded systems to build useful AgriTech, automotive, and IoT solutions.
+Become a strong backend-focused Software Engineer who can design, build, test, and maintain complete web and mobile applications.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1100&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;lines=Learning+software+engineering+one+step+at+a+time...;Building+web+applications+with+C%23+and+ASP.NET+Core...;Learning+mobile+development+with+Dart+and+Flutter...;Preparing+for+embedded+systems+and+IoT...;Building+technology+that+solves+real-world+problems...;Working+toward+becoming+a+Microsoft+MVP..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1100&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;lines=Learning+software+engineering+one+step+at+a+time...;Strengthening+frontend+fundamentals...;Building+backend+applications+with+PHP+and+Laravel...;Learning+C%23+and+ASP.NET+Core...;Building+mobile+applications+with+Dart+and+Flutter...;Turning+ideas+into+useful+software..."
     alt="Animated Current Mission"
   />
 </p>
@@ -524,6 +283,6 @@ Networking is a supporting skill that will help me understand deployment, cloud 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B26,50:8B5CF6,100:06B6D4&amp;height=140&amp;section=footer"
     width="100%"
-    alt="Wave Footer"
+    alt="Animated Wave Footer"
   />
 </p>
