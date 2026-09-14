@@ -1,83 +1,114 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=100&amp;text=Hi%2C%20I%27m%20Ronan%20Antoque%21&amp;fontSize=42&amp;fontColor=06B6D4&amp;fontAlignY=50&amp;animation=fadeIn"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2500&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;height=70&amp;lines=Hi%2C+I%27m+Ronan+Antoque%21"
     alt="Hi, I'm Ronan Antoque!"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=Aspiring+Network+Engineer;Learning+CCNA+and+Networking+Fundamentals;Hobby+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=800&amp;lines=Aspiring+Network+Engineer;Learning+CCNA+and+Networking+Fundamentals;Hobby+Developer"
     alt="Animated introduction"
   />
 </p>
 
-I am a 4th-year BSIT student at UC Main and an aspiring Network Engineer.
+<p align="center">
+  A 4th-year BSIT student at UC Main and an aspiring <strong>Network Engineer</strong>.
+</p>
 
-My main focus is learning how networks are designed, configured, secured, and troubleshot. I also enjoy software development as a hobby and use it to build small, useful projects.
+<p align="center">
+  I am learning how networks are designed, configured, secured, and troubleshot.<br>
+  I also enjoy software development as a hobby and build small, useful projects.
+</p>
 
-🌐 Networking Focus
+---
 
-Networking fundamentals and the OSI model
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=06B6D4&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;height=45&amp;lines=%F0%9F%8C%90+Networking+Focus"
+    alt="Networking Focus"
+  />
+</p>
 
-IPv4, IPv6, and subnetting
+- Networking fundamentals and the OSI model
+- IPv4, IPv6, and subnetting
+- Switching, VLANs, trunks, and STP
+- Static and dynamic routing fundamentals
+- DHCP, DNS, NAT, and common network services
+- Network troubleshooting and basic security
+- Cisco Packet Tracer and hands-on networking labs
+- Linux and Windows networking basics
 
-Switching, VLANs, trunks, and STP
+---
 
-Static routing and dynamic routing fundamentals
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=8B5CF6&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=45&amp;lines=%F0%9F%92%BB+Development+Tech+Stack"
+    alt="Development Tech Stack"
+  />
+</p>
 
-DHCP, DNS, NAT, and common network services
+| Category | Technologies |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, Tailwind CSS |
+| **Backend** | PHP, Laravel, MySQL, REST APIs |
+| **Mobile** | React Native |
+| **Tools** | Git, GitHub, VS Code |
+| **Design** | Figma, Framer |
 
-Network troubleshooting and basic security
+---
 
-Cisco Packet Tracer and hands-on networking labs
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=06B6D4&amp;vCenter=true&amp;repeat=true&amp;width=550&amp;height=45&amp;lines=%F0%9F%93%9A+Currently+Learning"
+    alt="Currently Learning"
+  />
+</p>
 
-Linux and Windows networking basics
+- Building and troubleshooting small networks
+- Cisco networking and CCNA fundamentals
+- Network monitoring and NOC fundamentals
+- Linux commands and network administration
+- Web development with PHP and Laravel
+- Mobile development with React Native
+- Interface design using Figma and Framer
 
-💻 Development Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript, Tailwind CSS
-Backend: PHP, Laravel, MySQL, REST APIs
-Mobile: React Native
-Tools: Git, GitHub, VS Code
-Design: Figma, Framer
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=8B5CF6&amp;vCenter=true&amp;repeat=true&amp;width=400&amp;height=45&amp;lines=%F0%9F%8E%AF+Goals"
+    alt="Goals"
+  />
+</p>
 
-📚 Currently Learning
+- Build a strong foundation in networking
+- Gain practical experience through labs and projects
+- Start a career in network support or a Network Operations Center
+- Progress toward becoming a professional Network Engineer
+- Continue building software as a hobby
 
-Building and troubleshooting small networks
+---
 
-Cisco networking and CCNA fundamentals
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2200&amp;pause=1200&amp;color=06B6D4&amp;vCenter=true&amp;repeat=true&amp;width=550&amp;height=45&amp;lines=%F0%9F%A7%AA+Projects+and+Labs"
+    alt="Projects and Labs"
+  />
+</p>
 
-Network monitoring and NOC fundamentals
+- Cisco Packet Tracer network labs
+- Subnetting and IP-addressing exercises
+- VLAN, routing, DHCP, and DNS configurations
+- Small Laravel web applications
+- Small React Native mobile applications
+- UI and website designs using Figma and Framer
 
-Linux commands and network administration
+---
 
-Web and React Native development through hobby projects
-
-🎯 Goals
-
-Build a strong foundation in networking
-
-Gain practical experience through labs and projects
-
-Start a career in network support or a Network Operations Center (NOC)
-
-Progress toward becoming a professional Network Engineer
-
-Continue building software as a hobby
-
-🧪 Projects and Labs
-
-Cisco Packet Tracer network labs
-
-Subnetting and IP-addressing exercises
-
-VLAN, routing, DHCP, and DNS configurations
-
-Small Laravel and React Native applications
-
-Learning one network, one lab, and one project at a time.
+<p align="center">
+  <em>Learning one network, one lab, and one project at a time.</em>
+</p>
 
 <p align="center">
   <img
